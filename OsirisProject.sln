@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osiris.DBUtility", "DBUtility\Osiris.DBUtility.csproj", "{A2BDF4BA-5840-437A-9859-A91781352C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osiris.APIWeb", "OsirisAPIWeb\Osiris.APIWeb.csproj", "{CC02011E-D27C-4F99-8F11-7E342F44524F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osiris.BLL", "Osiris.BLL\Osiris.BLL.csproj", "{A67A1C40-0C43-4CEF-91BF-6BFD4F05A7FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osiris.DAL", "Osiris.DAL\Osiris.DAL.csproj", "{7BBD03F7-6479-44F4-A34A-7CB6A6290728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osiris.Tools", "Osiris.Tools\Osiris.Tools.csproj", "{BFD3F0CE-0C88-4EDA-B58F-981C930BBAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osiris.Model", "Osiris.Model\Osiris.Model.csproj", "{D1BA614A-B46F-4747-B427-DC99D644FF5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osiris.CloudWeb", "Osiris.CloudWeb\Osiris.CloudWeb.csproj", "{78510A94-F0B8-4393-BA8C-FC2184BF4C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BDF4BA-5840-437A-9859-A91781352C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BDF4BA-5840-437A-9859-A91781352C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BDF4BA-5840-437A-9859-A91781352C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BDF4BA-5840-437A-9859-A91781352C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC02011E-D27C-4F99-8F11-7E342F44524F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC02011E-D27C-4F99-8F11-7E342F44524F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC02011E-D27C-4F99-8F11-7E342F44524F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC02011E-D27C-4F99-8F11-7E342F44524F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A67A1C40-0C43-4CEF-91BF-6BFD4F05A7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67A1C40-0C43-4CEF-91BF-6BFD4F05A7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67A1C40-0C43-4CEF-91BF-6BFD4F05A7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67A1C40-0C43-4CEF-91BF-6BFD4F05A7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BBD03F7-6479-44F4-A34A-7CB6A6290728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBD03F7-6479-44F4-A34A-7CB6A6290728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBD03F7-6479-44F4-A34A-7CB6A6290728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBD03F7-6479-44F4-A34A-7CB6A6290728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD3F0CE-0C88-4EDA-B58F-981C930BBAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD3F0CE-0C88-4EDA-B58F-981C930BBAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD3F0CE-0C88-4EDA-B58F-981C930BBAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD3F0CE-0C88-4EDA-B58F-981C930BBAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1BA614A-B46F-4747-B427-DC99D644FF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BA614A-B46F-4747-B427-DC99D644FF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BA614A-B46F-4747-B427-DC99D644FF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BA614A-B46F-4747-B427-DC99D644FF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78510A94-F0B8-4393-BA8C-FC2184BF4C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78510A94-F0B8-4393-BA8C-FC2184BF4C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78510A94-F0B8-4393-BA8C-FC2184BF4C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78510A94-F0B8-4393-BA8C-FC2184BF4C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

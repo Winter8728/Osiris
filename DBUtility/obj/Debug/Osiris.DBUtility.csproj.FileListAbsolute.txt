@@ -1,0 +1,15 @@
+F:\winter\others\OsirisProject_back\DBUtility\bin\Debug\DBUtility.dll
+F:\winter\others\OsirisProject_back\DBUtility\bin\Debug\DBUtility.pdb
+F:\winter\others\OsirisProject_back\DBUtility\obj\Debug\Osiris.DBUtility.csprojResolveAssemblyReference.cache
+F:\winter\others\OsirisProject_back\DBUtility\obj\Debug\DBUtility.dll
+F:\winter\others\OsirisProject_back\DBUtility\obj\Debug\DBUtility.pdb
+F:\winter\others\OsirisProject\DBUtility\bin\Debug\DBUtility.dll
+F:\winter\others\OsirisProject\DBUtility\bin\Debug\DBUtility.pdb
+F:\winter\others\OsirisProject\DBUtility\obj\Debug\Osiris.DBUtility.csprojResolveAssemblyReference.cache
+F:\winter\others\OsirisProject\DBUtility\obj\Debug\DBUtility.dll
+F:\winter\others\OsirisProject\DBUtility\obj\Debug\DBUtility.pdb
+H:\TaoBaoProject\OsirisSVNProject\DBUtility\bin\Debug\DBUtility.dll
+H:\TaoBaoProject\OsirisSVNProject\DBUtility\bin\Debug\DBUtility.pdb
+H:\TaoBaoProject\OsirisSVNProject\DBUtility\obj\Debug\Osiris.DBUtility.csprojResolveAssemblyReference.cache
+H:\TaoBaoProject\OsirisSVNProject\DBUtility\obj\Debug\DBUtility.dll
+H:\TaoBaoProject\OsirisSVNProject\DBUtility\obj\Debug\DBUtility.pdb

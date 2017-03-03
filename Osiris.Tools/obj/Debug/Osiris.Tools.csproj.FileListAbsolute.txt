@@ -1,0 +1,14 @@
+F:\winter\others\OsirisProject_back\Osiris.Tools\bin\Debug\Osiris.Tools.dll
+F:\winter\others\OsirisProject_back\Osiris.Tools\bin\Debug\Osiris.Tools.pdb
+F:\winter\others\OsirisProject_back\Osiris.Tools\obj\Debug\Osiris.Tools.dll
+F:\winter\others\OsirisProject_back\Osiris.Tools\obj\Debug\Osiris.Tools.pdb
+F:\winter\others\OsirisProject\Osiris.Tools\bin\Debug\Osiris.Tools.dll
+F:\winter\others\OsirisProject\Osiris.Tools\bin\Debug\Osiris.Tools.pdb
+F:\winter\others\OsirisProject\Osiris.Tools\obj\Debug\Osiris.Tools.csprojResolveAssemblyReference.cache
+F:\winter\others\OsirisProject\Osiris.Tools\obj\Debug\Osiris.Tools.dll
+F:\winter\others\OsirisProject\Osiris.Tools\obj\Debug\Osiris.Tools.pdb
+H:\TaoBaoProject\OsirisSVNProject\Osiris.Tools\bin\Debug\Osiris.Tools.dll
+H:\TaoBaoProject\OsirisSVNProject\Osiris.Tools\bin\Debug\Osiris.Tools.pdb
+H:\TaoBaoProject\OsirisSVNProject\Osiris.Tools\obj\Debug\Osiris.Tools.csprojResolveAssemblyReference.cache
+H:\TaoBaoProject\OsirisSVNProject\Osiris.Tools\obj\Debug\Osiris.Tools.dll
+H:\TaoBaoProject\OsirisSVNProject\Osiris.Tools\obj\Debug\Osiris.Tools.pdb
